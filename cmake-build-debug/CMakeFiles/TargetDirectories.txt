@@ -1,0 +1,3 @@
+C:/Users/12401/Desktop/GUI 5/cmake-build-debug/CMakeFiles/GUI.dir
+C:/Users/12401/Desktop/GUI 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12401/Desktop/GUI 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
